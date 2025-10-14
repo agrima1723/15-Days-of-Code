@@ -38,3 +38,12 @@ explanation - helps to detect negative cycle that we cannot do by djikstra's alg
 gfg -  Minimum steps to reach end from start by performing multiplication and mod operations with array elements
 https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1
 explanation - used djikstra in this question , multiplied the numbers and used a queue to keep a track of all the nodes , in this we compare on the basis of steps needed for the target , made a distance array to keep the track of the distance at each node 
+
+**DAY 2 = 14 / 10 / 2025**
+
+1. leetcode - 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
+https://leetcode.com/submissions/detail/1801262180/
+
+2. learnt about minimum spanning tree from striver video - https://youtu.be/ZSPjZuZWCME?si=bJwq7wC6KOJK_Msi
+3. gfg prims algorithm question - https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1
+4. learnt about disjoint sets , union by rank and union by size from striver video - https://youtu.be/aBxjDBC4M1U?si=panbAX_u9kpvKA45
