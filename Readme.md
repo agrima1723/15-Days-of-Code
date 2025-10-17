@@ -48,7 +48,7 @@ https://leetcode.com/submissions/detail/1801262180/
 3. gfg prims algorithm question - https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1
 4. learnt about disjoint sets , union by rank and union by size from striver video - https://youtu.be/aBxjDBC4M1U?si=panbAX_u9kpvKA45
    
-DAY 5 = 15 / 10/2025
+**DAY 3 = 15 / 10/2025**
 1. Leetcode - 1319. Number of Operations to Make Network Connected
     https://leetcode.com/submissions/detail/1801985097/
 2. Leetcode - 947. Most Stones Removed with Same Row or Column
@@ -56,3 +56,8 @@ DAY 5 = 15 / 10/2025
 3. Solved 3 problems on codechef contest
 4. Krushkal's algorithm using disjoint sets
    https://www.geeksforgeeks.org/problems/minimum-spanning-tree-kruskals-algorithm/1
+
+  ** DAY 4 = 17 / 10 / 2025 **
+  1. leetcode -721. Accounts Merge
+   https://leetcode.com/submissions/detail/1803903444/
+2. revised graph and tried more questions but didnt solved complete 
