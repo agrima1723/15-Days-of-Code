@@ -60,4 +60,11 @@ https://leetcode.com/submissions/detail/1801262180/
   ** DAY 4 = 17 / 10 / 2025 **
   1. leetcode -721. Accounts Merge
    https://leetcode.com/submissions/detail/1803903444/
-2. revised graph and tried more questions but didnt solved complete 
+2. revised graph and tried more questions but didnt solved complete
+
+   **DAY 5 = 18 / 10 / 2025**
+1. Watched stl videos by luv
+   https://youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn&si=p8xetRcucfaVlx0V
+2. learnt backened development : how to use postman for backened
+   https://youtu.be/_u-WgSN5ymU?si=E-2vKqLkGnS_lqFa
+   
