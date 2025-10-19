@@ -57,7 +57,7 @@ https://leetcode.com/submissions/detail/1801262180/
 4. Krushkal's algorithm using disjoint sets
    https://www.geeksforgeeks.org/problems/minimum-spanning-tree-kruskals-algorithm/1
 
-  ** DAY 4 = 17 / 10 / 2025 **
+  **DAY 4 = 17 / 10 / 2025**
   1. leetcode -721. Accounts Merge
    https://leetcode.com/submissions/detail/1803903444/
 2. revised graph and tried more questions but didnt solved complete
@@ -67,4 +67,12 @@ https://leetcode.com/submissions/detail/1801262180/
    https://youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn&si=p8xetRcucfaVlx0V
  2. learnt backened development : how to use postman for backened
    https://youtu.be/_u-WgSN5ymU?si=E-2vKqLkGnS_lqFa
-   
+
+   **DAY 6 = 19 / 10 / 2025**
+   1. revised linked list
+   2. reversing a linked list using recurrsion
+   3. leetcode 328 : odd even linked list
+      https://leetcode.com/problems/odd-even-linked-list/submissions/1806089129/
+   4. leetcode 160 : Intersection of Two Linked Lists
+      https://leetcode.com/submissions/detail/1806108603/
+
