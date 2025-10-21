@@ -76,3 +76,9 @@ https://leetcode.com/submissions/detail/1801262180/
    4. leetcode 160 : Intersection of Two Linked Lists
       https://leetcode.com/submissions/detail/1806108603/
 
+ ** DAY 7 = 21 / 10 / 2025** 
+     1. leetcode - 1903. Largest Odd Number in String
+     https://leetcode.com/submissions/detail/1807864778/
+     2. leetcode - 151. Reverse Words in a String
+     https://leetcode.com/submissions/detail/1807864778/
+     
