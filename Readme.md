@@ -81,4 +81,14 @@ https://leetcode.com/submissions/detail/1801262180/
      https://leetcode.com/submissions/detail/1807864778/
      2. leetcode - 151. Reverse Words in a String
      https://leetcode.com/submissions/detail/1807864778/
-     
+
+   **DAY 8 = 22 / 10 / 2025 **
+   1. leetcode - 1021. Remove Outermost Parentheses
+      https://leetcode.com/submissions/detail/1808285016/
+   2. leetcode - 14. Longest Common Prefix
+      https://leetcode.com/submissions/detail/1808340848/
+   3. leetcode - 205. Isomorphic Strings
+      https://leetcode.com/submissions/detail/1808722125/
+   4. leetcode - 796. Rotate String
+      https://leetcode.com/submissions/detail/1808812262/
+      
