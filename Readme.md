@@ -91,4 +91,10 @@ https://leetcode.com/submissions/detail/1801262180/
       https://leetcode.com/submissions/detail/1808722125/
    4. leetcode - 796. Rotate String
       https://leetcode.com/submissions/detail/1808812262/
+
+   ** DAY 9 = 23 / 10 / 2025**
+      1. leetcode - 451. Sort Characters By Frequency
+         https://leetcode.com/submissions/detail/1809746270/
+      2. leetcode -1614. Maximum Nesting Depth of the Parentheses
+         https://leetcode.com/submissions/detail/1809730109/
       
