@@ -97,4 +97,16 @@ https://leetcode.com/submissions/detail/1801262180/
          https://leetcode.com/submissions/detail/1809746270/
       2. leetcode -1614. Maximum Nesting Depth of the Parentheses
          https://leetcode.com/submissions/detail/1809730109/
-      
+
+   DAY 10 = 24 / 10 / 2025 
+   1. leetcode - 1781. Sum of Beauty of All Substrings
+      https://leetcode.com/submissions/detail/1810084243/
+   2. leetcode - 13. Roman to Integer
+      https://leetcode.com/submissions/detail/1810156209/
+    TLE eleminator sheet questions
+   3. problem 1 - https://codeforces.com/contest/1890/problem/A
+      solution id - https://codeforces.com/contest/1890/submission/345498422
+   4. problem 2 - https://codeforces.com/contest/1896/problem/A
+      solution id - https://codeforces.com/contest/1896/submission/345486610
+   5. problem 3 - https://codeforces.com/contest/1899/problem/A
+      solution id - https://codeforces.com/contest/1899/submission/345474005
