@@ -115,19 +115,29 @@ https://leetcode.com/submissions/detail/1801262180/
 
   1 . leetcode - 1716
       https://leetcode.com/submissions/detail/1810932787/
+      
  TLE ELEMINATOR SHEET
+ 
   2. problem : two permutation
      https://codeforces.com/problemset/submission/1761/345676883
-  3. problem : extremely round
+     
+  4. problem : extremely round
      https://codeforces.com/problemset/submission/1766/345684995
-  4. problem : everybody likes good arrays
+     
+  6. problem : everybody likes good arrays
      https://codeforces.com/problemset/submission/1777/345689068
-  5. problem : one and two
+     
+  8. problem : one and two
      https://codeforces.com/problemset/submission/1788/345722566
-  6. problem : prepend and append
+     
+  10. problem : prepend and append
      https://codeforces.com/problemset/submission/1791/345730035
-  7. problem : we need the zero
+
+  12. problem : we need the zero
      https://codeforces.com/problemset/submission/1805/345738520
+
   8 . watched backened using javascript video of chai aur code
-      - https://youtu.be/7DVpag3cO0g?si=ed1I1qoOTXFQSh7u
-      - https://youtu.be/_u-WgSN5ymU?si=_tN1zQG-UvkxaS5l
+  
+   - https://youtu.be/7DVpag3cO0g?si=ed1I1qoOTXFQSh7u
+      
+ - https://youtu.be/_u-WgSN5ymU?si=_tN1zQG-UvkxaS5l
