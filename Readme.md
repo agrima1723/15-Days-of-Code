@@ -141,3 +141,20 @@ https://leetcode.com/submissions/detail/1801262180/
    - https://youtu.be/7DVpag3cO0g?si=ed1I1qoOTXFQSh7u
       
  - https://youtu.be/_u-WgSN5ymU?si=_tN1zQG-UvkxaS5l
+
+   DAY 12 = 27 / 10 / 2025
+
+   1. leetcode = 2043. Simple Bank System
+      https://leetcode.com/submissions/detail/1811921128/
+
+   2. leetcode = Q2. Maximum Alternating Sum of Squares
+      https://leetcode.com/contest/weekly-contest-473/submissions/detail/1811775106/
+
+   3. leetcode = Q1. Remove Zeros in Decimal Representation
+      https://leetcode.com/contest/weekly-contest-473/submissions/detail/1811759233/
+
+   TLE ELEMINATOR SHEET QUESTIONS
+   
+   4. blank space - https://codeforces.com/contest/1829/submission/345846196
+
+   5. Coins - https://codeforces.com/contest/1814/submission/345841155
