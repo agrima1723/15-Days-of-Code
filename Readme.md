@@ -142,7 +142,7 @@ https://leetcode.com/submissions/detail/1801262180/
       
  - https://youtu.be/_u-WgSN5ymU?si=_tN1zQG-UvkxaS5l
 
-   DAY 12 = 27 / 10 / 2025
+   DAY 12 = 26 / 10 / 2025
 
    1. leetcode = 2043. Simple Bank System
       https://leetcode.com/submissions/detail/1811921128/
@@ -158,3 +158,18 @@ https://leetcode.com/submissions/detail/1801262180/
    4. blank space - https://codeforces.com/contest/1829/submission/345846196
 
    5. Coins - https://codeforces.com/contest/1814/submission/345841155
+
+   DAY 13 = 27 / 10 / 2025
+
+   1. leetcode - 2125. Number of Laser Beams in a Bank
+      https://leetcode.com/submissions/detail/1812891336/
+
+   2. A coloring Array - https://codeforces.com/contest/1857/submission/345988975
+
+   3. Forbidden integer - https://codeforces.com/contest/1845/submission/345985148
+
+   4. Grassoper on the line - https://codeforces.com/contest/1837/submission/345982359
+
+   5. Twin permutation - https://codeforces.com/contest/1831/submission/345980733
+  
+   6. Unit array - https://codeforces.com/contest/1834/submission/345978855
