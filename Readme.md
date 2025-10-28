@@ -173,3 +173,11 @@ https://leetcode.com/submissions/detail/1801262180/
    5. Twin permutation - https://codeforces.com/contest/1831/submission/345980733
   
    6. Unit array - https://codeforces.com/contest/1834/submission/345978855
+
+
+  DAY 14 = 28 / 10 / 2025 
+
+  1. leetcode - 3354. Make Array Elements Equal to Zero
+     https://leetcode.com/submissions/detail/1813844586/
+
+  2. gave codeforces contest 
