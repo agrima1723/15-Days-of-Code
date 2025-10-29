@@ -180,4 +180,17 @@ https://leetcode.com/submissions/detail/1801262180/
   1. leetcode - 3354. Make Array Elements Equal to Zero
      https://leetcode.com/submissions/detail/1813844586/
 
-  2. gave codeforces contest 
+  2. gave codeforces contest - solved 4 questions 
+
+DAY 15 = 29 / 10 / 2025 
+
+1. leetcode - 3370. Smallest Number With All Set Bits
+   https://leetcode.com/submissions/detail/1815245436/
+
+Codeforces - 
+
+2. Ambitious Kid - https://codeforces.com/contest/1866/submission/346508768
+
+3. Sequence Game - https://codeforces.com/contest/1862/submission/346518078
+
+4. buttons - https://codeforces.com/contest/1858/submission/346519620
